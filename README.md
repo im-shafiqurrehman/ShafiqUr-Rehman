@@ -7,7 +7,7 @@
 
 <br/>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="350" />
+<img align="right" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Boy Coding" width="350" />
 
 🔭 I’m currently working on:  
 &nbsp;&nbsp;&nbsp;&nbsp;🚀 **Building scalable full-stack apps using the MERN stack**  
